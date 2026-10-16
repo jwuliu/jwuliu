@@ -1,0 +1,4 @@
+baseURL = 'https://jasenwliu.org/'
+locale = 'en-us'
+title = 'Professional website'
+theme = 'html5up-dimension'
