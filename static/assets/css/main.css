@@ -1693,3 +1693,20 @@ input, select, textarea {
 .contact-line .icon:before {
     margin-right: 0.8em;
 }
+.pub-img {
+    float: right;
+    width: 7rem;
+    height: auto;
+    margin: 0 0 0.5rem 1.25rem;
+    border-radius: 4px;
+}
+
+li.has-img {
+    display: list-item;
+}
+
+li.has-img::after {
+    content: "";
+    display: block;
+    clear: both;
+}
