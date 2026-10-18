@@ -1690,3 +1690,6 @@ input, select, textarea {
         flex: 1 1 calc(50% - 0.5rem);
     }
 }
+.contact-line .icon:before {
+    margin-right: 0.8em;
+}
